@@ -64,7 +64,7 @@ LabsYi provides a modern, accessible web interface for controlling and programmi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/LabsYi.git
+git clone https://github.com/daust-lab/LabsYi.git
 cd LabsYi
 ```
 
