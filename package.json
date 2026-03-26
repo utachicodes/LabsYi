@@ -1,0 +1,14 @@
+{
+  "name": "labs-yi-root",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "npm run dev --prefix web-platform",
+    "build": "npm run build --prefix web-platform",
+    "start": "npm run start --prefix web-platform",
+    "lint": "npm run lint --prefix web-platform"
+  }
+}
